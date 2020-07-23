@@ -4,6 +4,8 @@ Here, you will be working on the array methods mentioned in the[Ruby Arrays](htt
 
 In this lab you will write several methods to familiarize yourself with some common Array methods.
 
+Since there are many tests in this lab, I suggest using the `--f-f` flag (fail fast) when using `rspec` to only show to first failed test. `rspec --f-f` 
+
 # Installation
 
 1.Fork this lab to clone the repository to your GitHub. <br>
