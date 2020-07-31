@@ -1,9 +1,9 @@
-# Ruby Data Class Types Lab
+# Ruby Array Methods Lab
 <strong>This guide assumes you have Ruby installed on your machine, a text editor, and a Github account already in place.</strong>
 
-Here, you will be working on the array methods mentioned in the[Ruby Arrays](https://dev.to/bmweygant/ruby-arrays-o8n) lesson.
+In this lab you will write several methods to familiarize yourself with some common Array methods as mentioned in the[Ruby Arrays](https://dev.to/bmweygant/ruby-arrays-o8n) lesson.
 
-In this lab you will write several methods to familiarize yourself with some common Array methods.
+Your goal is to define all the methods defined in the test cases. Read the `array_methods_rspec.rb` file carefully to get as much information as you can about these methods.
 
 Since there are many tests in this lab, I suggest using the `--f-f` flag (fail fast) when using `rspec` to only show to first failed test. `rspec --f-f` 
 
